@@ -1,53 +1,47 @@
-#Stock Trend Analyzer
+# Stock Trend Analyzer
 
-##Overview
-Stock Trend Analyzer is a Python-based GUI application that lets users visualize, analyze, and predict trends for popular stocks and the S&P 500 
- index. It utilizes up-to-date data, moving averages, and machine learning for analysis—all accessible via a modern Tkinter dashboard.
+## Overview
+Stock Trend Analyzer is a Python-based GUI application that lets users visualize, analyze, and predict trends for popular stocks and the S&P 500 [finance:S&P 500] index. It utilizes up-to-date data, moving averages, and machine learning for analysis—all accessible via a modern Tkinter dashboard.
 
-##Features
-Real-time stock data and price charts
+## Features
+- Real-time stock data and price charts
+- Moving average visualizations
+- Next-day price predictions using linear regression
+- Top performer discovery based on historical returns
+- Intuitive black-themed interface for clarity
 
-Moving average visualizations
+## Technologies/Tools Used
+- Python 3.x
+- Tkinter for GUI
+- yfinance for stock data
+- matplotlib for charting
+- scikit-learn for predictions
+- pandas, numpy for data handling
 
-Next-day price predictions using linear regression
+## Steps to Install & Run
 
-Top performer discovery based on historical returns
+1. **Clone the repository:**
+    ```
+    git clone https://github.com/yourusername/stock-trend-analyzer.git
+    cd stock-trend-analyzer
+    ```
 
-Intuitive black-themed interface for clarity
+2. **Install dependencies:**
+    ```
+    pip install -r requirements.txt
+    ```
 
-##Technologies/Tools Used
-Python 3.x
+3. **Run the application:**
+    ```
+    python main.py
+    ```
 
-Tkinter for GUI
+## Instructions for Testing
 
-yfinance for stock data
+- Use the sidebar to select a stock and view its chart and statistics.
+- Click "Show Best Stocks" to compare recent performance.
+- Check displayed predictions for estimated next-day prices.
 
-matplotlib for charting
+## Screenshots
 
-scikit-learn for predictions
-
-pandas, numpy for data handling
-
-##Steps to Install & Run
-
-##Clone the repository:
-bash
-git clone https://github.com/yourusername/stock-trend-analyzer.git
-cd stock-trend-analyzer
-
-##Install dependencies:
-bash
-pip install -r requirements.txt
-
-##Run the application:
-bash
-python main.py
-##Instructions for Testing
-Use the sidebar to select a stock and view its chart and statistics.
-##Screenshot:
-
-Click "Show Best Stocks" to compare recent performance.
-
-Check displayed predictions for estimated next-day prices.
-
-Screenshots
+*(Add your screenshots here to showcase the dashboard and features.)*
