@@ -44,11 +44,10 @@ Stock Trend Analyzer is a Python-based GUI application that lets users visualize
 
 ## Screenshots
 
-## Screenshots
+### Dashboard View
+![Dashboard View](https://github.com/user-attachments/assets/f0587057-37f5-4bc5-a7ca-01551cb5c160)
 
-![Dashboard View](images/dashboard.png)
-*Main window showing real-time stock charts and predictions.*
+### Suggestions Tab
+![Suggestions Tab](https://github.com/user-attachments/assets/8916f249-3df2-4a94-b9eb-8a2310c0dc8b)
 
-![Suggestions Tab](images/suggestions.png)
-*View of the best stock suggestions based on recent returns.*
 
