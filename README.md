@@ -1,5 +1,5 @@
 #Stock Trend Analyzer
-Overview
+##Overview
 Stock Trend Analyzer is a Python-based GUI application that lets users visualize, analyze, and predict trends for popular stocks and the S&P 500 
  index. It utilizes up-to-date data, moving averages, and machine learning for analysis—all accessible via a modern Tkinter dashboard.
 
